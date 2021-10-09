@@ -1,0 +1,7 @@
+1,intern,0
+2,junior,1.5
+3,senior,5
+4,junior,2
+5,senior,4
+6,senior,8
+7,junior,0.5
